@@ -17,6 +17,7 @@ public class ProbaGit {
     public static void main(String[] args) {
         System.out.println("Первая версия программы");
         System.out.println("Вторая версия программы");
+        System.out.println("Третья версия программы");
     }
     
 }
